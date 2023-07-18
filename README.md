@@ -1,5 +1,5 @@
 # Feed-The-Birds-Python
-stack c implementation , stack application infix to postfix and postfix to infix
+feed the birds in python tkinter
 
 ## Installation
 
