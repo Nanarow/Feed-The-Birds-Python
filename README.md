@@ -10,7 +10,7 @@ git clone https://github.com/Nanarow/Feed-The-Birds-Python.git
 ## Usage
 run **`main.py`**
 ```bash
-main.py
+python main.py
 ```
 
 ## How to play
